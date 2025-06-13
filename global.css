@@ -2,6 +2,7 @@
     font-family: DejaVu Sans Mono, monospace;
     background: #1d1f21;
     color: white;
+    font-size: 13px;
 }
 
 html {
@@ -10,7 +11,7 @@ html {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 28px;
 }
 
 body {
