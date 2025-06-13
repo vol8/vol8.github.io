@@ -1,0 +1,41 @@
+* {
+    font-family: DejaVu Sans Mono, monospace;
+    background: #1d1f21;
+    color: white;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    max-width: 800px;
+    padding: 1rem;
+}
+
+
+table {
+    background-color: #c5c8c6;
+}
+
+th, tr, td {
+    max-width: 400px;
+    padding: 0.5rem;
+    background-color: #282a2e;
+}
+
+a {
+    color: #81a2be;
+    background: rgba(0,0,0,0);
+}
+
+.unfinished {
+    color: #cc6666;
+}
